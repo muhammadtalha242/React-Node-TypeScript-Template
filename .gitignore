@@ -1,0 +1,21 @@
+# server
+
+/server/node_modules
+/server/dist
+/server/config
+
+# client
+
+/app/node_modules
+/app/build
+
+.env
+.env.test
+.env.staging
+.env.production
+
+# DS_Store
+.DS_Store
+
+# pg data
+pgdata

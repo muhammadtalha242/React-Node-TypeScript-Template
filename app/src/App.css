@@ -1,0 +1,23 @@
+.ant-popover-inner {
+  border-radius: 16px !important;
+}
+
+.ant-popover-inner-content {
+  padding: 0 !important;
+}
+
+.ant-message-notice-content {
+  border-radius: 12px !important;
+}
+
+.ant-switch-checked {
+  background-color: #09bc8a !important;
+}
+
+.ant-select {
+  background-color: #fff !important;
+}
+
+.ant-popover-arrow {
+  visibility: hidden !important;
+}
